@@ -1,1 +1,1 @@
-# effective-potato
+# effective-automation
